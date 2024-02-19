@@ -1,0 +1,48 @@
+body {
+    width: 375px;
+    border: 1px solid #333333;
+    margin: 0 auto;
+    font-size: 10px;
+    font-family: "Lato", sans-serif;
+   
+   
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.post-info {
+    display: flex;
+}
+
+.user-name {
+    margin-bottom: 0;
+}
+.user-location {
+    font-weight: 400;
+    margin-top: 0;
+}
+  
+.logo-img{
+    width: 125px;
+}
+
+.avatar-img, .vg-av-img{
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+}
+
+.vg-av-img{
+    padding: 10px;
+}
+
+.vg-post-img{
+    width: 375px;
+}
+
